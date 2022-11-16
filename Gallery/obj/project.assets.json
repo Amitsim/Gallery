@@ -1185,11 +1185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\student\\source\\repos\\Gallery\\Gallery.csproj",
+      "projectUniqueName": "C:\\Users\\student\\Desktop\\Gallery\\Gallery\\Gallery.csproj",
       "projectName": "Gallery",
-      "projectPath": "C:\\Users\\student\\source\\repos\\Gallery\\Gallery.csproj",
+      "projectPath": "C:\\Users\\student\\Desktop\\Gallery\\Gallery\\Gallery.csproj",
       "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\student\\source\\repos\\Gallery\\obj\\",
+      "outputPath": "C:\\Users\\student\\Desktop\\Gallery\\Gallery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
